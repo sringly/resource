@@ -17,3 +17,11 @@ node使用例子集合https://www.teakki.com/p/57dfa87f3c20b02e90a0d5ce
 正则可视化https://blog.robertelder.org/regular-expression-visualizer/  
 手机、电脑套壳工具https://deviceshots.com/  
 git文档：https://docs.github.com/cn/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning
+
+ts相关：  
+在线练习：https://www.typescriptlang.org/play  
+ts生成uml图：https://tsuml-demo.firebaseapp.com/  
+json转为ts类型：http://www.jsontots.com/    
+数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats
+ts语法树生成：https://ts-ast-viewer.com/ 
+将ts注释转换为html或json文档：https://ts-ast-viewer.com/
