@@ -28,4 +28,5 @@ ts相关：
 
 
 各种库集合  http://www.lib4dev.in/  
-react源码解析： https://react.iamkasong.com/
+react源码解析： https://react.iamkasong.com/  
+在线查看npm包结构：https://uiw.gitee.io/npm-unpkg/#/
