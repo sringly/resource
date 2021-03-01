@@ -37,4 +37,5 @@ no_code清单：https://nocodelist.co/
 前端面试：https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd  
 serverless redis：https://console.upstash.com/pages/newdatabase  
 在线数据库：https://supabase.io/  
-前端架构分享：https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231
+前端架构分享：https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231  
+在线聊天群：https://discord.com/
