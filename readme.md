@@ -38,4 +38,8 @@ no_code清单：https://nocodelist.co/
 serverless redis：https://console.upstash.com/pages/newdatabase  
 在线数据库：https://supabase.io/  
 前端架构分享：https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231  
-在线聊天群：https://discord.com/
+在线聊天群：https://discord.com/  
+函数式编程入门：https://wizardforcel.gitbooks.io/functional-light-js/content/
+
+> 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
+> 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats
