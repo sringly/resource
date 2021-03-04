@@ -42,7 +42,8 @@ serverless redis：https://console.upstash.com/pages/newdatabase
 函数式编程入门：https://wizardforcel.gitbooks.io/functional-light-js/content/  
 前端实践：https://www.kancloud.cn/chandler/react_handbook/1271262  
 前端环境安装：https://juejin.cn/post/6884042237412376583  
-值得看的博客：http://www.ayqy.net/blog/
+值得看的博客：http://www.ayqy.net/blog/  
+React动画库：https://openbase.com/categories/js/best-react-animation-libraries?orderBy=RECOMMENDED&
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
