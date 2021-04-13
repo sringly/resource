@@ -48,7 +48,8 @@ React动画库：https://openbase.com/categories/js/best-react-animation-librari
 React+TS类型定义教程：https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/context  
 格式在线转化：https://transform.tools/xml-to-json  
 npm包在线版本比对：https://semver.npmjs.com/  
-前端blog：https://mengsixing.github.io/blog/2018.html#%E5%AD%A6%E4%B9%A0%E4%B8%8A
+前端blog：https://mengsixing.github.io/blog/2018.html#%E5%AD%A6%E4%B9%A0%E4%B8%8A  
+对理解vue和react不错的文章：http://hcysun.me/vue-design/zh/essence-of-comp.html#%E7%BB%84%E4%BB%B6%E7%9A%84%E7%A7%8D%E7%B1%BB
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
