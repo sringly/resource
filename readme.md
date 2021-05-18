@@ -52,7 +52,8 @@ npm包在线版本比对：https://semver.npmjs.com/
 对理解vue和react不错的文章：http://hcysun.me/vue-design/zh/essence-of-comp.html#%E7%BB%84%E4%BB%B6%E7%9A%84%E7%A7%8D%E7%B1%BB  
 现代js教程：https://zh.javascript.info/  
 web components组件库：https://xy-ui.codelabo.cn/docs/#/README，https://www.fast.design/docs/components/getting-started  
-建站：https://sli.dev/
+建站：https://sli.dev/  
+好用的翻译软件：https://www.deepl.com/translator
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
