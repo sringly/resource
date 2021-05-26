@@ -55,7 +55,7 @@ web components组件库：https://xy-ui.codelabo.cn/docs/#/README，https://www.
 建站：https://sli.dev/  
 好用的翻译软件：https://www.deepl.com/translator  
 linux命令用法查询工具：https://tldr.linux.cn/  
-写ts包模板：https://github.com/Rich-Harris/typescript-lib
+写ts包模板：https://github.com/Rich-Harris/typescript-lib, https://github.com/formium/tsdx
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
