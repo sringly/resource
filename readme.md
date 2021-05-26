@@ -55,7 +55,8 @@ web components组件库：https://xy-ui.codelabo.cn/docs/#/README，https://www.
 建站：https://sli.dev/  
 好用的翻译软件：https://www.deepl.com/translator  
 linux命令用法查询工具：https://tldr.linux.cn/  
-写ts包模板：https://github.com/Rich-Harris/typescript-lib, https://github.com/formium/tsdx
+写ts包模板：https://github.com/Rich-Harris/typescript-lib, https://github.com/formium/tsdx  
+在线画时序图：https://swimlanes.io/#bVA9T8NADN3vV3iEE2n3DiyIETG0EgNCrZU4yUmOXe4uTSPEf8cXSgUS25Pt9+GXQ2bawAtxrQNBVkhTGBiF0iqoc+5ZCKp72E26gSdKCTtyTjTTxnn/+9Z7CAkQUhiOTKDCQYqgMrQaoY6EOUgH+0TvI0lN0ATsIg5pv3LusQkZcm8EOucSo2CmdsHjscFMy+jCMYb3D3qcl+EY2dxLdjyZc4TUY/xzfwf7ktlGmH8oUPcoHSWYehI6UYRZx3+8SrznCIdt6ASCwEeLVTJcBamQ8+ehOC/vEaAA1rWOkg02UCsz1YaZQduiH69fm6qzVq/l7iw+cXspF7ZE4P1rOxo1zZLxDGoZT4Gmt5t1Z4oU53VZV9/rW6ugFD2ovd5QxsDpCw==
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
