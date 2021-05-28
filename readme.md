@@ -61,7 +61,8 @@ css用法查找：https://css-tricks.com/almanac/#letter-N
 用笔绘图：https://excalidraw.com/  
 js数据结构和算法：http://www.conardli.top/docs/
 剑指offer js版：https://github.com/luxiangqiang/JianZhi-Offer_JavaScript  
-canvas封装库：https://github.com/fabricjs/fabric.js
+canvas封装库：https://github.com/fabricjs/fabric.js  
+electron 实战教程：https://molunerfinn.com/tags/Electron-vue/
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
