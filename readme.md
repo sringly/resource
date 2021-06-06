@@ -65,7 +65,8 @@ canvas封装库：https://github.com/fabricjs/fabric.js
 electron 实战教程：https://molunerfinn.com/tags/Electron-vue/  
 flutter可视化搭建工具：https://flutterflow.io/    
 flutter demo 集合：https://github.com/flutter/samples  
-请求响应mock测试：https://github.com/postmanlabs/httpbin
+请求响应mock测试：https://github.com/postmanlabs/httpbin  
+社保公积金转移：https://deepzz.com/post/interprovincial-job-change.html
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
