@@ -74,7 +74,9 @@ webRtc集合：https://github.com/muaz-khan/WebRTC-Experiment.
 app12原则：https://12factor.net/zh_cn/ 
 mac好看终端教程：https://mp.weixin.qq.com/s/dle27qPDYXYcalfy0RGJeQ  
 图片视频集合：https://github.com/neutraltone/awesome-stock-resources  
-在浏览器中实时React编译渲染：https://github.com/concrete-utopia/utopia
+在浏览器中实时React编译渲染：https://github.com/concrete-utopia/utopia  
+在线ps：https://www.uupoop.com/ps/  
+日程管理工具：https://tweek.so/
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
