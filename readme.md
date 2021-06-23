@@ -76,7 +76,8 @@ mac好看终端教程：https://mp.weixin.qq.com/s/dle27qPDYXYcalfy0RGJeQ
 图片视频集合：https://github.com/neutraltone/awesome-stock-resources  
 在浏览器中实时React编译渲染：https://github.com/concrete-utopia/utopia  
 在线ps：https://www.uupoop.com/ps/  
-日程管理工具：https://tweek.so/
+日程管理工具：https://tweek.so/  
+数列规律：https://oeis.org/search?q=0+1+1+2+3+5+8&sort=&language=chinese&go=Search
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
