@@ -81,7 +81,8 @@ mac好看终端教程：https://mp.weixin.qq.com/s/dle27qPDYXYcalfy0RGJeQ
 github api:https://badgen.net/  
 知识体系：https://github.com/wx-chevalier  
 jupter: https://jupyterlite.github.io/demo/lab/  
-第三方api服务：https://api.oick.cn/random/
+第三方api服务：https://api.oick.cn/random/  
+vscode插件开发文档：https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/extension-guides/command
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
