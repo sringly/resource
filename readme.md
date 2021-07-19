@@ -80,7 +80,8 @@ mac好看终端教程：https://mp.weixin.qq.com/s/dle27qPDYXYcalfy0RGJeQ
 数列规律：https://oeis.org/search?q=0+1+1+2+3+5+8&sort=&language=chinese&go=Search  
 github api:https://badgen.net/  
 知识体系：https://github.com/wx-chevalier  
-jupter: https://jupyterlite.github.io/demo/lab/
+jupter: https://jupyterlite.github.io/demo/lab/  
+第三方api服务：https://api.oick.cn/random/
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
