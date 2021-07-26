@@ -83,7 +83,8 @@ github api:https://badgen.net/
 jupter: https://jupyterlite.github.io/demo/lab/  
 第三方api服务：https://api.oick.cn/random/  
 vscode插件开发文档：https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/extension-guides/command  
-流程图工具：https://github.com/vanila-io/wireflow
+流程图工具：https://github.com/vanila-io/wireflow  
+shell编程教程：https://tinylab-1.gitbook.io/shellbook/01-chapter5
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
