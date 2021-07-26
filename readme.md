@@ -85,7 +85,8 @@ jupter: https://jupyterlite.github.io/demo/lab/
 vscode插件开发文档：https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/extension-guides/command  
 流程图工具：https://github.com/vanila-io/wireflow  
 shell编程教程：https://tinylab-1.gitbook.io/shellbook/01-chapter5  
-构建在线markdown编辑器：http://tinylab.org/markdown-lab/  
+构建在线markdown编辑器：http://tinylab.org/markdown-lab/    
+github提交次数统计组件：https://github.com/grubersjoe/react-activity-calendar
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
