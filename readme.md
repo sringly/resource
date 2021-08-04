@@ -86,7 +86,8 @@ vscode插件开发文档：https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/e
 流程图工具：https://github.com/vanila-io/wireflow  
 shell编程教程：https://tinylab-1.gitbook.io/shellbook/01-chapter5  
 构建在线markdown编辑器：http://tinylab.org/markdown-lab/    
-github提交次数统计组件：https://github.com/grubersjoe/react-activity-calendar
+github提交次数统计组件：https://github.com/grubersjoe/react-activity-calendar  
+chrome开发脚手架：https://github.com/njzydark/chrome-extension-boilerplate
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
