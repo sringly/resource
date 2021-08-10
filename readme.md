@@ -92,7 +92,9 @@ chrome开发脚手架：https://github.com/njzydark/chrome-extension-boilerplate
 JS加密解密：https://github.com/bitwiseshiftleft/sjcl    
 快捷工具集：https://github.com/clouDr-f2e/rubick  
 AST便捷工具：https://github.com/thx/gogocode  
-GIT diff工具：https://github.com/banga/git-split-diffs
+GIT diff工具：https://github.com/banga/git-split-diffs  
+nocodb：https://github.com/nocodb/nocodb  
+http-api设计指北：https://github.com/bolasblack/http-api-guide
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
