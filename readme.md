@@ -87,7 +87,12 @@ vscode插件开发文档：https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/e
 shell编程教程：https://tinylab-1.gitbook.io/shellbook/01-chapter5  
 构建在线markdown编辑器：http://tinylab.org/markdown-lab/    
 github提交次数统计组件：https://github.com/grubersjoe/react-activity-calendar  
-chrome开发脚手架：https://github.com/njzydark/chrome-extension-boilerplate
+chrome开发脚手架：https://github.com/njzydark/chrome-extension-boilerplate  
+多人协作富文本：https://github.com/ether/etherpad-lite 
+JS加密解密：https://github.com/bitwiseshiftleft/sjcl    
+快捷工具集：https://github.com/clouDr-f2e/rubick  
+AST便捷工具：https://github.com/thx/gogocode  
+GIT diff工具：https://github.com/banga/git-split-diffs
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
