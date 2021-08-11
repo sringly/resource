@@ -95,7 +95,12 @@ JS加密解密：https://github.com/bitwiseshiftleft/sjcl
 AST便捷工具：https://github.com/thx/gogocode  
 GIT diff工具：https://github.com/banga/git-split-diffs  
 nocodb：https://github.com/nocodb/nocodb  
-http-api设计指北：https://github.com/bolasblack/http-api-guide
+http-api设计指北：https://github.com/bolasblack/http-api-guide  
+markdown解析成ast：https://github.com/yozorajs/yozora
+html5 canvas框架：https://github.com/konvajs/konva  
+设计工具：https://polotno.dev/  
+门窗设计软件：https://windowcc.com/home
+在线编辑器：https://www.anyfiddle.com/?ref=producthunt&continueFlag=24dc682e3f5892a79193842f97156bc8
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
