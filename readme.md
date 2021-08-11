@@ -102,7 +102,8 @@ html5 canvas框架：https://github.com/konvajs/konva
 门窗设计软件：https://windowcc.com/home
 在线编辑器：https://www.anyfiddle.com/?ref=producthunt&continueFlag=24dc682e3f5892a79193842f97156bc8  
 在线甘特图：https://www.onlinegantt.com/#/gantt  
-图片diff：https://github.com/dmtrKovalenko/odiff，https://github.com/rsmbl/Resemble.js，https://imagemagick.org/index.php，https://github.com/alyssaxuu/screenity
+图片diff：https://github.com/dmtrKovalenko/odiff，https://github.com/rsmbl/Resemble.js，https://imagemagick.org/index.php，https://github.com/alyssaxuu/screenity  
+动态表单：https://github.com/dream2023/f-render
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
