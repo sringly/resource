@@ -104,7 +104,8 @@ html5 canvas框架：https://github.com/konvajs/konva
 在线甘特图：https://www.onlinegantt.com/#/gantt  
 图片diff：https://github.com/dmtrKovalenko/odiff，https://github.com/rsmbl/Resemble.js，https://imagemagick.org/index.php，https://github.com/alyssaxuu/screenity  
 动态表单：https://github.com/dream2023/f-render  
-sql学习：https://www.bilibili.com/video/BV1UE41147KC?p=12
+sql学习：https://www.bilibili.com/video/BV1UE41147KC?p=12  
+mac gif工具：https://getkap.co/
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
