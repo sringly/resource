@@ -109,7 +109,8 @@ mac gif工具：https://getkap.co/
 晋升ppt怎么写：https://github.com/Skycrab/code/blob/master/%E6%99%8B%E5%8D%87/%E5%85%B3%E4%BA%8E%E6%99%8B%E5%8D%87%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93%E4%B8%8E%E5%8F%82%E8%80%83-%E5%A7%9C%E5%85%86%E9%98%B3.md
 什么是技术深度(晋升)：https://zhuanlan.zhihu.com/p/39614048  
 
-设计模式：https://github.com/guanguans/design-patterns-for-humans-cn
+设计模式：https://github.com/guanguans/design-patterns-for-humans-cn  
+面试宝典：https://github.com/yangshun/tech-interview-handbook
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
