@@ -110,7 +110,8 @@ mac gif工具：https://getkap.co/
 什么是技术深度(晋升)：https://zhuanlan.zhihu.com/p/39614048  
 
 设计模式：https://github.com/guanguans/design-patterns-for-humans-cn  
-面试宝典：https://github.com/yangshun/tech-interview-handbook
+面试宝典：https://github.com/yangshun/tech-interview-handbook  
+自己动手写编译器：https://pandolia.net/tinyc/index.html
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
