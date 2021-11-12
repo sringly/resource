@@ -113,7 +113,8 @@ mac gif工具：https://getkap.co/
 面试宝典：https://github.com/yangshun/tech-interview-handbook  
 自己动手写编译器：https://pandolia.net/tinyc/index.html  
 node源码解析：https://11111-1252105172.cos.ap-shanghai.myqcloud.com/understand-nodejs%EF%BC%88%E5%B8%A6%E6%A0%87%E7%AD%BE%E7%89%88%EF%BC%89.pdf
-https://github.com/taoshihan1991/go-fly
+https://github.com/taoshihan1991/go-fly    
+架构图 https://www.zhihu.com/question/27440059/answer/2144817478
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
