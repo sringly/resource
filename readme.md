@@ -122,7 +122,8 @@ docker教程https://vuepress.mirror.docker-practice.com/?continueFlag=0b04af7050
 正则表达式学习：https://regexlearn.com/zh-cn?utm_source=appinn.com  
 用rust写react组件：https://mp.weixin.qq.com/s/OA1B-L1FTYlvdiViLgBSDQ  
 flutter组件库：https://github.com/LianjiaTech/bruno  
-docker管理终端https://github.com/jesseduffield/lazydocker
+docker管理终端https://github.com/jesseduffield/lazydocker  
+letcode 100题：https://zhuanlan.zhihu.com/p/388681117
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
