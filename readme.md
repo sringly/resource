@@ -123,7 +123,10 @@ docker教程https://vuepress.mirror.docker-practice.com/?continueFlag=0b04af7050
 用rust写react组件：https://mp.weixin.qq.com/s/OA1B-L1FTYlvdiViLgBSDQ  
 flutter组件库：https://github.com/LianjiaTech/bruno  
 docker管理终端https://github.com/jesseduffield/lazydocker  
-letcode 100题：https://zhuanlan.zhihu.com/p/388681117
+letcode 100题：https://zhuanlan.zhihu.com/p/388681117  
+web接入在线聊天：https://github.com/papercups-io/papercups  
+强大chrome插件：https://github.com/alyssaxuu/omni 
+web 内存泄漏检测工具：https://github.com/nolanlawson/fuite
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
