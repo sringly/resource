@@ -130,7 +130,8 @@ web接入在线聊天：https://github.com/papercups-io/papercups
 web 内存泄漏检测工具：https://github.com/nolanlawson/fuite    
 rust教程：https://github.com/sunface/rust-course    
 curl: https://github.com/bagder/everything-curl  
-工具集合：https://www.67tool.com/
+工具集合：https://www.67tool.com/  
+node写shell：https://github.com/google/zx
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
