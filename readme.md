@@ -131,7 +131,9 @@ web 内存泄漏检测工具：https://github.com/nolanlawson/fuite
 rust教程：https://github.com/sunface/rust-course    
 curl: https://github.com/bagder/everything-curl  
 工具集合：https://www.67tool.com/  
-node写shell：https://github.com/google/zx
+node写shell：https://github.com/google/zx  
+补全终端：https://github.com/withfig/autocomplete  
+git救命手册：https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
