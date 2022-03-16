@@ -135,7 +135,8 @@ node写shell：https://github.com/google/zx
 补全终端：https://github.com/withfig/autocomplete  
 git救命手册：https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md  
 ffmpeg浏览器和node：https://github.com/ffmpegwasm/ffmpeg.wasm  
-react面试题：https://github.com/sudheerj/reactjs-interview-questions#table-of-contents
+react面试题：https://github.com/sudheerj/reactjs-interview-questions#table-of-contents  
+可拖拽分栏：https://github.com/zesik/react-splitter-layout
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
