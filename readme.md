@@ -138,7 +138,8 @@ ffmpeg浏览器和node：https://github.com/ffmpegwasm/ffmpeg.wasm
 react面试题：https://github.com/sudheerj/reactjs-interview-questions#table-of-contents  
 可拖拽分栏：https://github.com/zesik/react-splitter-layout  
 json 格式化：https://jsonvisio.com/editor  
-插画设计：https://designstripe.com/?continueFlag=0b6d107668ec590e1a5bc5206c423d22
+插画设计：https://designstripe.com/?continueFlag=0b6d107668ec590e1a5bc5206c423d22  
+代理工具：https://proxyman.io/   whistle   charles   fiddle
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
