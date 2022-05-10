@@ -141,7 +141,14 @@ json 格式化：https://jsonvisio.com/editor
 插画设计：https://designstripe.com/?continueFlag=0b6d107668ec590e1a5bc5206c423d22  
 代理工具：https://proxyman.io/   whistle   charles   fiddle  
 React实时渲染：https://github.com/FormidableLabs/react-live  
-第三方库在web worker运行，包括操作dom：https://github.com/builderio/partytown
+第三方库在web worker运行，包括操作dom：https://github.com/builderio/partytown  
+实时天气预报：https://www.ventusky.com/?p=23.7;111.5;4&l=rain-ac  
+山水简图：http://shan-shui-inf.lingdong.works/?seed=1652177
+代码实现的艺术：https://lingdong.works/
+在线SQL学习：https://www.db-fiddle.com/?continueFlag=999cfdb86fac70c3f4a87669d1469b15 
+devtool heap 快照：https://github.com/adriancooney/puppeteer-heap-snapshot   
+自己搭搜索引擎：https://github.com/meilisearch/meilisearch
+python 运行在浏览器：https://pyscript.net/?continueFlag=83669db3116b9da1dbe3dad8006c90a2
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
