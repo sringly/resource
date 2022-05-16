@@ -148,7 +148,8 @@ React实时渲染：https://github.com/FormidableLabs/react-live
 在线SQL学习：https://www.db-fiddle.com/?continueFlag=999cfdb86fac70c3f4a87669d1469b15 
 devtool heap 快照：https://github.com/adriancooney/puppeteer-heap-snapshot   
 自己搭搜索引擎：https://github.com/meilisearch/meilisearch
-python 运行在浏览器：https://pyscript.net/?continueFlag=83669db3116b9da1dbe3dad8006c90a2
+python 运行在浏览器：https://pyscript.net/?continueFlag=83669db3116b9da1dbe3dad8006c90a2  
+生成终端样式页面：https://github.com/Cveinnt/LiveTerm
 
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
