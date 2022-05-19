@@ -150,7 +150,8 @@ devtool heap 快照：https://github.com/adriancooney/puppeteer-heap-snapshot
 自己搭搜索引擎：https://github.com/meilisearch/meilisearch  
 python 运行在浏览器：https://pyscript.net/?continueFlag=83669db3116b9da1dbe3dad8006c90a2    
 生成终端样式页面：https://github.com/Cveinnt/LiveTerm  
-python代码片段： https://github.com/geekcomputers/Python
+python代码片段： https://github.com/geekcomputers/Python  
+小工具集，可独立部署：https://github.com/jaywcjlove/tools
   
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
