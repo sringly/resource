@@ -151,8 +151,15 @@ devtool heap 快照：https://github.com/adriancooney/puppeteer-heap-snapshot
 python 运行在浏览器：https://pyscript.net/?continueFlag=83669db3116b9da1dbe3dad8006c90a2    
 生成终端样式页面：https://github.com/Cveinnt/LiveTerm  
 python代码片段： https://github.com/geekcomputers/Python  
-小工具集，可独立部署：https://github.com/jaywcjlove/tools
-  
+小工具集，可独立部署：https://github.com/jaywcjlove/tools  
+推荐系统Go：https://github.com/gorse-io/gorse  
+手绘图形库：https://github.com/rough-stuff/rough  
+将node打包为可执行文件：https://github.com/nexe/nexe
+代替uuid：https://github.com/ai/nanoid 
+pdf读写和生成python： https://github.com/pikepdf/pikepdf  
+汉字工具库：https://github.com/theajack/cnchar  
+键盘监听库：https://github.com/jamiebuilds/tinykeys    
+devtool log日志美化：https://github.com/adamschwartz/log
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
