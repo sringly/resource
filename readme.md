@@ -159,7 +159,11 @@ python代码片段： https://github.com/geekcomputers/Python
 pdf读写和生成python： https://github.com/pikepdf/pikepdf  
 汉字工具库：https://github.com/theajack/cnchar  
 键盘监听库：https://github.com/jamiebuilds/tinykeys    
-devtool log日志美化：https://github.com/adamschwartz/log
+devtool log日志美化：https://github.com/adamschwartz/log  
+多人协作markdown：https://github.com/Cveinnt/LetsMarkdown.com  
+api集合：https://apitracker.io/?continueFlag=fbbfa800695a2e183171a0cac7d49163  
+将数据库表直接转化为表格： https://github.com/nocodb/nocodb
+js处理pdf:https://github.com/bpampuch/pdfmake,https://github.com/wojtekmaj/react-pdf,https://github.com/Hopding/pdf-lib
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
