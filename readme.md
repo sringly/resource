@@ -164,7 +164,8 @@ devtool log日志美化：https://github.com/adamschwartz/log
 api集合：https://apitracker.io/?continueFlag=fbbfa800695a2e183171a0cac7d49163  
 将数据库表直接转化为表格： https://github.com/nocodb/nocodb
 js处理pdf:https://github.com/bpampuch/pdfmake,https://github.com/wojtekmaj/react-pdf,https://github.com/Hopding/pdf-lib  
-代码匹配和替换：https://github.com/comby-tools/comby
+代码匹配和替换：https://github.com/comby-tools/comby  
+web3 教程：https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
