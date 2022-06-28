@@ -167,7 +167,8 @@ js处理pdf:https://github.com/bpampuch/pdfmake,https://github.com/wojtekmaj/rea
 代码匹配和替换：https://github.com/comby-tools/comby  
 web3 教程：https://github.com/smartcontractkit/full-blockchain-solidity-course-js  
 js混淆反解：http://jsnice.org/  
-给视频加解说：https://github.com/elebumm/RedditVideoMakerBot
+给视频加解说：https://github.com/elebumm/RedditVideoMakerBot  
+搜索库：https://github.com/meilisearch/meilisearch
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
