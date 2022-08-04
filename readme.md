@@ -169,7 +169,8 @@ web3 教程：https://github.com/smartcontractkit/full-blockchain-solidity-cours
 js混淆反解：http://jsnice.org/  
 给视频加解说：https://github.com/elebumm/RedditVideoMakerBot  
 搜索库：https://github.com/meilisearch/meilisearch  
-可视化框架：https://github.com/smartxworks/sunmao-ui
+可视化框架：https://github.com/smartxworks/sunmao-ui    
+css学习例子：https://github.com/chokcoco/CSS-Inspiration
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
