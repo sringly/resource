@@ -171,7 +171,8 @@ js混淆反解：http://jsnice.org/
 搜索库：https://github.com/meilisearch/meilisearch  
 可视化框架：https://github.com/smartxworks/sunmao-ui    
 css学习例子：https://github.com/chokcoco/CSS-Inspiration 
-css动画https://animista.net/play/entrances
+css动画https://animista.net/play/entrances  
+桌面应用：https://github.com/tauri-apps/tauri
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
