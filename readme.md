@@ -172,7 +172,8 @@ js混淆反解：http://jsnice.org/
 可视化框架：https://github.com/smartxworks/sunmao-ui    
 css学习例子：https://github.com/chokcoco/CSS-Inspiration 
 css动画https://animista.net/play/entrances  
-桌面应用：https://github.com/tauri-apps/tauri
+桌面应用：https://github.com/tauri-apps/tauri  
+图片视频编辑：github.com/layerhub-io/react-design-editor
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
