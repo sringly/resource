@@ -2,9 +2,9 @@ figma资源：https://www.figma.cool/#Figma%20%E6%8F%92%E4%BB%B6
 github博客：https://hellogithub.com/periodical/volume/63/#category-2  
 动态icon：https://lordicon.com/free-icons    
 正则教程：http://www.zjmainstay.cn/deep-regexp    
-学习正则：https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md
-图解git： https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1#rebase 原文    
-图解git：https://zhuanlan.zhihu.com/p/132731553 中文  
+学习正则：https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md  
+原文图解git： https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1#rebase  
+中文图解git：https://zhuanlan.zhihu.com/p/132731553  
 免费图表icon：https://icons8.com/icons    
 画图工具：https://plantuml.com/zh/starting  
 api接口丰富实例：https://apicoding.io/  
@@ -183,4 +183,4 @@ js功能片段：https://github.com/phuocng/1loc
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats    
   
 
-测试本地
+测试本地333
