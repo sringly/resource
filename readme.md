@@ -180,4 +180,7 @@ js功能片段：https://github.com/phuocng/1loc
 在线设计工具：https://github.com/penpot/penpot
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
-> 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats  
+> 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats    
+  
+
+测试本地
