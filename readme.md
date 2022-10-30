@@ -183,3 +183,4 @@ js功能片段：https://github.com/phuocng/1loc
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats    
   
 将web打包为桌面端应用：github.com/tw93/Pake 
+wxy
