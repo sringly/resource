@@ -184,4 +184,5 @@ js功能片段：https://github.com/phuocng/1loc
   
 将web打包为桌面端应用：github.com/tw93/Pake   
 
-快速去图片背景：https://github.com/danielgatis/rembg
+快速去图片背景：https://github.com/danielgatis/rembg  
+纯js实现的ocr：https://github.com/naptha/tesseract.js#tesseractjs
