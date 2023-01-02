@@ -177,7 +177,8 @@ css动画https://animista.net/play/entrances
 图片视频编辑：github.com/layerhub-io/react-design-editor  
 js功能片段：https://github.com/phuocng/1loc
 获取ui代码的插件：https://chrome.google.com/webstore/detail/aspect/bolegjkaeijefaiehamnkmbkkdbhocae  
-在线设计工具：https://github.com/penpot/penpot
+在线设计工具：https://github.com/penpot/penpot  
+低代码平台实现原理：https://github.com/woai3c/visual-drag-demo
 
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats编程
 > 数据库schema自动生成ts定义：https://github.com/SweetIQ/schemats    
@@ -185,4 +186,11 @@ js功能片段：https://github.com/phuocng/1loc
 将web打包为桌面端应用：github.com/tw93/Pake   
 
 快速去图片背景：https://github.com/danielgatis/rembg  
-纯js实现的ocr：https://github.com/naptha/tesseract.js#tesseractjs
+纯js实现的ocr：https://github.com/naptha/tesseract.js#tesseractjs  
+
+网页端邮件组件：https://github.com/mjmlio/mjml  
+最小编译器：https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js  
+红白机css：https://github.com/nostalgic-css/NES.css  
+图解react源码：https://github.com/7kms/react-illustration-series  
+ts类型技巧：https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md  
+微信样式库：https://github.com/Tencent/weui
